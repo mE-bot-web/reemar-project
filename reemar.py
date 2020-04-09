@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Thanks To A-GVMT
+# Thanks To StarSkyGeminid
 # Author ? gada bosque
 # Cuma percobaan wkwk nanti di banyakin dah biar agak kerenan diki awokawok
 # yang terpenting adalah:
