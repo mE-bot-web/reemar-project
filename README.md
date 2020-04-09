@@ -6,7 +6,7 @@
 * pkg install termux-api 
 * git clone https://github.com/MhankBarBar/reemar-project
 * cd reemar-project
-* python reemar
+* python reemar.py
 ```
 # Screenshot
-<img src="https://github.com/MhankBarBar/spm-unli/blob/master/Pict.png" width="100%" alt="ScreenShot">
+<img src="https://github.com/MhankBarBar/spm-unli/blob/master/Pict.png" width="50%" alt="ScreenShot">
